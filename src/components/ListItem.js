@@ -7,6 +7,7 @@ export default function ListItem({ todoList, setTodoList, todoIndex }) {
   }
   return (
     <div
+      role={"document"}
       style={{
         textDecoration: todoList[todoIndex].done ? "line-through" : "none",
         userSelect: "none",
