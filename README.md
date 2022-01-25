@@ -1,4 +1,4 @@
-#React Testing Library Example on a Basic Todo App
+# React Testing Library Example on a Basic Todo App
 
 ## Available Scripts
 
